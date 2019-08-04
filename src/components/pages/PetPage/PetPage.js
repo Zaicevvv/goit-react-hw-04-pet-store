@@ -6,7 +6,7 @@ import css from './PetPage.module.css';
 
 const activeStyle = {
   color: 'white',
-  backgroundColor: 'black',
+  backgroundColor: 'grey',
   padding: '10px 50px 10px 50px',
   textDecoration: 'none',
 };
