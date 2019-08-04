@@ -1,0 +1,11 @@
+.info {
+  width: 1120px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+}
+.img {
+  padding-right: 20px;
+}

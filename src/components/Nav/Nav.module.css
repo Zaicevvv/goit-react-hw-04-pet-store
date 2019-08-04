@@ -1,0 +1,19 @@
+.nav {
+  width: 1120px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-type: none;
+  background-color: rgb(27, 23, 23);
+  min-height: 50px;
+}
+
+.navItem {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+}
