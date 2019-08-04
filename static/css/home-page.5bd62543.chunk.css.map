@@ -1,0 +1,1 @@
+{"version":3,"sources":["HomePage.module.css"],"names":[],"mappings":"AAAA,sBACE,YAAa,CACb,YAAa,CACb,gBAAiB,CACjB,iBACF","file":"home-page.5bd62543.chunk.css","sourcesContent":[".home {\n  padding: 50px;\n  width: 1120px;\n  margin-left: auto;\n  margin-right: auto;\n}\n"]}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{35:function(e,n,o){e.exports={home:"HomePage_home__1nMY5"}},40:function(e,n,o){"use strict";o.r(n);var t=o(0),a=o.n(t),c=o(35),r=o.n(c);n.default=function(){return a.a.createElement("h1",{className:r.a.home},"Welcome to the Pet Store")}}}]);
+//# sourceMappingURL=home-page.916f2d2c.chunk.js.map

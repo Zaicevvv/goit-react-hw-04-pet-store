@@ -1,0 +1,1 @@
+{"version":3,"sources":["AboutPage.module.css"],"names":[],"mappings":"AAAA,wBACE,YAAa,CACb,YAAa,CACb,gBAAiB,CACjB,iBACF","file":"about-page.21e60e6b.chunk.css","sourcesContent":[".about {\r\n  padding: 50px;\r\n  width: 1120px;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n}"]}
